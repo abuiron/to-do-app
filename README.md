@@ -1,10 +1,15 @@
 # To-Do App
 
-[Live Demo](https://todo-app-by-at.netlify.app/)
-
 ## Project Overview
 
 The **To-Do App** is a simple yet efficient task management tool built using React.js. It allows users to create, manage, and track their daily tasks effectively. Users can add new tasks, mark tasks as completed, delete them, and filter the list based on their status.
+
+## Live Link
+ -[Live Link App](https://todo-app-by-at.netlify.app/)
+
+## Home Page
+ ![HomePage](https://github.com/abuiron/to-do-app/blob/main/public/front.png?raw=true)
+
 
 ## Key Features
 
